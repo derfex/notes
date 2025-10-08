@@ -1,18 +1,18 @@
-# Алгоритм создания нового репозитория
+# Algorithm for starting the implementation of an idea in a new repository
 
-1. Создать репозиторий через GitHub
-1. При инициализации создать `README.md`
-1. Создать `.gitignore` со строкой `node_modules`
-1. Клонировать репозиторий локально
-1. Указать настройки для `.git/config`  
-   Образец:
-    ```
-    [core]
-      …
-    [user]
-      name = your_username
-      email = your_email
-    …
-    ```
-1. Создать ветку `develop`, опубликовать
-1. Создать ветку для первой части правок, продолжить реализацию идеи
+1. Create a repository on GitHub.
+1. When initializing, create a `README.md`.
+1. Create a `.gitignore` file with the line `node_modules`.
+1. Clone the repository locally.
+1. Specify settings for `.git/config`:  
+   Example:
+   ```
+   [core]
+     …
+   [user]
+     name = your_username
+     email = your_email
+   …
+   ```
+1. Create a `develop` branch and publish it.
+1. Create a branch for the first part of the changes and continue implementing the idea.
