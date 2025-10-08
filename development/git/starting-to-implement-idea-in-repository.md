@@ -23,4 +23,4 @@
 1. Create a branch for the first part of the changes and continue implementing the idea.
 
 
-[RussianVersion][./starting-to-implement-idea-in-repository--ru.md]
+[RussianVersion]: ./starting-to-implement-idea-in-repository--ru.md
