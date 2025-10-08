@@ -1,5 +1,8 @@
 # Алгоритм начала реализации идеи в новом репозитории
 
+> [!TIP]
+> [English version][EnglishVersion].
+
 1. Создать репозиторий через GitHub.
 1. При инициализации создать `README.md`.
 1. Создать `.gitignore` со строкой `node_modules`.
@@ -16,3 +19,7 @@
     ```
 1. Создать ветку `develop`, опубликовать.
 1. Создать ветку для первой части правок, продолжить реализацию идеи.
+
+
+[EnglishVersion][./starting-to-implement-idea-in-repository.md]
+
