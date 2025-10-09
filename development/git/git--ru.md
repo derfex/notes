@@ -20,6 +20,13 @@
 
 ## Правила оформления коммитов и комментариев к ним
 
+> [!IMPORTANT]
+> Часть статьи будет пересмотрена в соответствии с подходом “Conventional Commits”.
+> Дополнительные ссылки:
+> * [conventionalcommits.org, EN][ConventionalCommitsOrgEN]
+> * [conventionalcommits.org, RU][ConventionalCommitsOrgRU]
+> * [Cheetsheet][ConventionalCommitsCheetsheet]
+
 В коммитах важна атомарность, а в комментариях — цель.
 
 Коммиты бывают «по делу» и «во благо».
@@ -103,6 +110,12 @@ With PRJ-122
 Следим за верным указанием кода документа в JIRA, избегаем опечаток.
 
 Заботясь об истории правок, осваиваем `stash` и `amend`.
+
+[ConventionalCommitsOrgEN]: https://www.conventionalcommits.org/en/v1.0.0
+[ConventionalCommitsOrgRU]: https://www.conventionalcommits.org/ru/v1.0.0
+[ConventionalCommitsCheetsheet]: https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13#types
+
+## Git конфликты
 
 Конфликты должны быть редкостью.
 Встречаешь конфликт —
