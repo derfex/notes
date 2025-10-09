@@ -21,5 +21,5 @@
 1. Создать ветку для первой части правок, продолжить реализацию идеи.
 
 
-[EnglishVersion][./starting-to-implement-idea-in-repository.md]
+[EnglishVersion]: ./starting-to-implement-idea-in-repository.md
 

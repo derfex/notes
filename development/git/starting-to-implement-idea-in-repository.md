@@ -3,8 +3,6 @@
 > [!TIP]
 > [Версия на русском языке][RussianVersion].
 
-[Версия на русском языке][RussianVersion].
-
 1. Create a repository on GitHub.
 1. When initializing, create a `README.md`.
 1. Create a `.gitignore` file with the line `node_modules`.
