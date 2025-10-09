@@ -44,8 +44,10 @@ Here is how they are displayed:
 
 ```markdown
 [GitHub][GitHub] is an usefull website.
+We can use [custom text][LinkCodename] for links.
 
 [GitHub]: https://github.com
+[LinkCodename]: https://a.b/c
 ```
 
 ## Supported languages ​​for Markdown syntax highlighting
